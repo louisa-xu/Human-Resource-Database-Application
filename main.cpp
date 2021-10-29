@@ -216,7 +216,7 @@ void displayAllEmployees(Connection *conn)
 
 	if (!rs->next())
 	{
-		cout << "There is no employees’ information to be displayed." << endl;
+		cout << "There is no employeesâ€™ information to be displayed." << endl;
 	}
 	else
 	{
